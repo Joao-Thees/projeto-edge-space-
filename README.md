@@ -2,6 +2,7 @@
 
 O projeto envolve a análise de temperatura de datacenters espaciais, que analisam a temperatura local, e a partir de uma certa temperatura, alertas são gerados via buzzer e leds. Tudo isso com um display LCD exibindo informações em tempo real para a missão.
 
+LINK THINKERCAD: https://www.tinkercad.com/things/f5WJ8mDj9El/editel
 ---
 
 ## 📋 Relatório Técnico
